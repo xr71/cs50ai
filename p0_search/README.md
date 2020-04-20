@@ -38,4 +38,10 @@ assign utility to outcomes
 
 [-1, 0, 1]
 
+We need to use Alpha-Beta Pruning 
+
+For high moves, we use Depth Limited MiniMax
+We will not use an Evaluation Function to calculate the expected utility function of the end game
+This function is key - as it ultimately determines how good the AI is
+
  
